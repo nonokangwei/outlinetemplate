@@ -18,6 +18,8 @@
        
        Name: This is the name for your user-assigned managed identity, for example outlinemsi.
        
+   ![Deploy To Azure](https://docs.microsoft.com/en-us/azure/active-directory/managed-identities-azure-resources/media/how-to-manage-ua-identity-portal/create-user-assigned-managed-identity-portal.png)
+       
        
 2. click the deploy to azure icon below, start the automatic deployment process.
    
