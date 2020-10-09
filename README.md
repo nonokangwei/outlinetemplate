@@ -19,6 +19,8 @@
        Name: This is the name for your user-assigned managed identity, for example outlinemsi.
        
    ![Deploy To Azure](https://docs.microsoft.com/en-us/azure/active-directory/managed-identities-azure-resources/media/how-to-manage-ua-identity-portal/create-user-assigned-managed-identity-portal.png)
+   
+   d. Assign the created Managed Identity above with subscription owner priviledge. In the search box, type Subscriptions, select the available subscription, then select Access control(IAM), select Add role assignment to assign the OWNER role to the Managed Identity.
        
        
 2. click the deploy to azure icon below, start the automatic deployment process.
