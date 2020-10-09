@@ -35,3 +35,12 @@
    
    d. Set the Identity as the ID you collect in Step 1.
 
+3. setup outline client on your mobile phone.
+
+   a. Android client download from [here](https://github.com/Jigsaw-Code/outline-client/releases/download/android-v1.4.0/android-v1.4.0.apk).
+   
+   b. IPhone client download directly from app store, app name is outline.
+   
+4. config the outline client
+   
+   copy the output connection string to the client. For example, connection string pattern: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppUVFrS1NHRXdCOEE=@x.x.x.x:54623/?outline=1
